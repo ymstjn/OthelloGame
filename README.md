@@ -1,5 +1,9 @@
 # オセロゲーム
 一般的なオセロのゲームをUnityで作成。  
+
+※サイト移動後、オセロゲーム画面をクリックして頂くと操作が可能となります。  
+<a href="https://unityroom.com/games/yamaothello">利用はこちらから(unityroom)</a>  
+  
 <a href="https://github.com/ymstjn/OthelloGame/blob/master/Assets/Scripts/Othello.cs">オセロのプログラム（場所：OthelloGame/Assets/Scripts/Othello.cs）</a>  
 
 
